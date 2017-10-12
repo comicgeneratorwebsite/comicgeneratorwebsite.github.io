@@ -120,7 +120,7 @@ header.masthead {
   color: white;
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); }
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #FF7F2A,#2A7FFF); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
@@ -247,6 +247,14 @@ section.contact {
       height: 80px;
       color: white;
       border-radius: 100%; }
+    section.contact ul.list-social li.social-tumblr a {
+    background-color: #36465D; }
+          section.contact ul.list-social li.social-tumblr a:hover {
+        background-color: #36465D; }
+    section.contact ul.list-social li.social-instagram a {
+    background-color: #E32771; }
+          section.contact ul.list-social li.social-instagram a:hover {
+        background-color: #E32771; }
     section.contact ul.list-social li.social-twitter a {
       background-color: #1da1f2; }
       section.contact ul.list-social li.social-twitter a:hover {
